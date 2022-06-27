@@ -11,10 +11,10 @@ Donate to Monero:
 
 Donate to Ethereum:
 ```
-0x8BB05C2714098724234199B53A3D1eCa7355C1F6
+0x5AE4B0847a9EA82576E78E0f923e26222108E7bC
 ```
 
 Donate to Bitcoin:
 ```
-bc1qx3wu8f82drqpjmz28l3nuyftupwhh4tkwdafr7
+3LegtxJFojCo7cB2aDQJpdkVQWwi1W8zUQ
 ```
